@@ -21,8 +21,7 @@ Welcome to the **Recipe Management System**! This application serves as a compre
 - **Recipe Discovery**: Browse a wide array of recipes from various cuisines.
 - **User Authentication**: Secure login and registration system for personalized experiences.
 - **Recipe Submission**: Users can add their own recipes with detailed instructions and images.
-- **Search Functionality**: Easily find recipes based on ingredients, cuisine, or dietary preferences.
-- **Favorites**: Save favorite recipes for quick access.
+- **Search Functionality**: Easily find recipes based on dietary preferences.
 - **Meal Planning**: Plan meals ahead and generate shopping lists.
 - **Responsive Design**: Optimized for both desktop and mobile viewing.
 
